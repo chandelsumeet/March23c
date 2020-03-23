@@ -1,0 +1,71 @@
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.f-w600
+{
+	font-weight: 600;
+}
+
+.f-w700
+{
+	font-weight: 700;
+}
+.f-w800
+{
+	font-weight: 800;
+}
+.f-w900
+{
+	font-weight: 900;
+}
+.f-s40
+{
+
+font-size: 40px;
+}
+.f-s30
+{
+
+font-size: 30px;
+}
+.f-s25
+{
+	font-size: 25px;
+}
+.f-s20
+{
+	font-size: 20px;
+}
+.m
+{
+	display: grid;
+	grid-template-columns: repeat(5,1fr);
+}
+.color-gray
+{
+	color: #5c5c5c;
+}
+.color-blue
+{
+	color: #1ef1fc;
+}
+.color-red
+{
+	color: #fc2e17;
+}
+.color-blue1
+{
+	color: #17fc8a;
+}
+.color-dark
+{
+	color: #324039;
+}
+.g
+{
+	display: grid;
+	grid-template-columns: repeat(5,auto);
+}
